@@ -1,0 +1,13 @@
+# Compiled object files
+*.o
+
+# Compiled binaries
+main
+a.out
+
+# IDE / Editor directories
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
